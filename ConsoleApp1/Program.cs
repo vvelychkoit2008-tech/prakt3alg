@@ -14,7 +14,7 @@
         private LinkedItem head;
         private LinkedItem tail;
 
-
+    public int Count { get; private set; }
     public void Add(int value)
     {
         LinkedItem newItem = new LinkedItem (value);
@@ -27,18 +27,18 @@
             tail.Next = newItem;
         }
         tail = newItem;
-        count++;
+        Count++;
     }
     public void AddFirst(int value)
     {
         LinkedItem newItem = new LinkedItem (value);
         newItem.Next = head;
         head = newItem;
-        if (count == 0)
+        if (Count == 0)
         {
             tail = head;
         }
-        count++;
+        Count++;
     }
     public bool Contains(int value)
     {

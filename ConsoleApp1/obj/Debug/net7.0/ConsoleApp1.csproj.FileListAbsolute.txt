@@ -12,3 +12,6 @@ C:\Users\student\Desktop\владік\практична 3 алгоритими\
 C:\Users\student\Desktop\владік\практична 3 алгоритими\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
 C:\Users\student\Desktop\владік\практична 3 алгоритими\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\student\Desktop\владік\практична 3 алгоритими\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\velyc\Desktop\prakt3alg\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\velyc\Desktop\prakt3alg\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\velyc\Desktop\prakt3alg\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
